@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Bem vindo ao meu repositório do Github.
 
 <!--
 **SabrinaTavera/SabrinaTavera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
